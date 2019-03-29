@@ -14,6 +14,10 @@
 		{
 			"Name": "SteamAudio",
 			"Enabled": true
+		},
+		{
+			"Name": "Synthesis",
+			"Enabled": true
 		}
 	]
 }
